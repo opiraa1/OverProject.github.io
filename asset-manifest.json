@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.bee99a95.css",
-    "main.js": "/static/js/main.15018a66.js",
+    "main.css": "/static/css/main.4bce4d9a.css",
+    "main.js": "/static/js/main.363f0f97.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/MainLogoImg.jpg": "/static/media/MainLogoImg.f8c8dd95977e25385ba4.jpg",
     "static/media/Keltus.jpg": "/static/media/Keltus.4fd54281ba9cb770c317.jpg",
+    "static/media/sport.png": "/static/media/sport.b4e3e405cfaad9e4c108.png",
+    "static/media/music.png": "/static/media/music.cb76e4a823dba5298559.png",
+    "static/media/art.png": "/static/media/art.adc6c05d812fc98c6897.png",
+    "static/media/facebook.png": "/static/media/facebook.e8b7fe8de35cfe1fab54.png",
     "static/media/HeaderLogoImg.png": "/static/media/HeaderLogoImg.c2d1757fe63ce8710b59.png",
+    "static/media/instagram.png": "/static/media/instagram.75c43ab282c693362fc2.png",
+    "static/media/twitter.png": "/static/media/twitter.28b4dce41e4e33858919.png",
+    "static/media/linkedin.png": "/static/media/linkedin.e6d9ad335d4d58908ca8.png",
     "index.html": "/index.html",
-    "main.bee99a95.css.map": "/static/css/main.bee99a95.css.map",
-    "main.15018a66.js.map": "/static/js/main.15018a66.js.map",
+    "main.4bce4d9a.css.map": "/static/css/main.4bce4d9a.css.map",
+    "main.363f0f97.js.map": "/static/js/main.363f0f97.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bee99a95.css",
-    "static/js/main.15018a66.js"
+    "static/css/main.4bce4d9a.css",
+    "static/js/main.363f0f97.js"
   ]
 }
